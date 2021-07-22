@@ -1,9 +1,7 @@
 
-
-Wideband MIMO Channel Estimation for Hybrid Beamforming Millimeter Wave Systems via Random Spatial Sampling
-
 Author: Evangelos Vlachos
 
-If you use this code or any (possibly modified) part of it in any publication, please cite the paper: E. Vlachos, G. C. Alexandropoulos and J. Thompson, "Wideband MIMO Channel Estimation for Hybrid Beamforming Millimeter Wave Systems via Random Spatial Sampling," in IEEE Journal of Selected Topics in Signal Processing, vol. 13, no. 5, pp. 1136-1150, Sept. 2019, doi: 10.1109/JSTSP.2019.2937633.
+If you use this code or any (possibly modified) part of it in any publication, please cite the paper: 
+E. Vlachos and J. Thompson, "Energy-Efficiency Maximization of Hybrid Massive MIMO Precoding With Random-Resolution DACs via RF Selection," in IEEE Transactions on Wireless Communications, vol. 20, no. 2, pp. 1093-1104, Feb. 2021, doi: 10.1109/TWC.2020.3030772.
 
 Contact person email: evlachos@athenarc.gr
